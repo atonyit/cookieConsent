@@ -1,5 +1,5 @@
-// const modualEl = document.getElementById('modal')
+const modalEl = document.getElementById('modal')
 
 setTimeout(function(){
-    console.log("Modal Opened")
+    modalEl.style.display = 'inline'
  }, 1500) //1.5 seconds
