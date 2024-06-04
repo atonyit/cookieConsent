@@ -123,8 +123,9 @@ Challenge:
 .modal-close-btn:disabled{
     color: whitesmoke;
     opacity: 0.2;
-    cursor: not-allowed;
+    /* cursor: not-allowed;  */
 }
+
 
 .modal-choice-btns{
     margin-top: 10px;
